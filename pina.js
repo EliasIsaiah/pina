@@ -15,8 +15,9 @@ if (likesPinas &&
     isNotIntoYoga &&
     hasHalfABrain &&
     likesMakingLoveAtMidnightOnTheDunesByTheCape) {
-	alert("I'm the one that you've looked for - come with me and escape")
+    alert("I'm the one that you've looked for - come with me and escape");
+    location.assign("https://www.youtube.com/watch?v=TazHNpt6OTo");
 }
 else {
-	alert("thank u, next!")
+	alert("thank u, next!");
 }
