@@ -1,8 +1,8 @@
-var likesPinas;
-var likesGettingCaughtInTheRain;
-var isNotIntoYoga;
-var hasHalfABrain;
-var likesMakingLoveAtMidnightOnTheDunesByTheCape;
+const likesPinas;
+const likesGettingCaughtInTheRain;
+const isNotIntoYoga;
+const hasHalfABrain;
+const likesMakingLoveAtMidnightOnTheDunesByTheCape;
 
 likesPinas = confirm("do you like pina coladas");
 likesGettingCaughtInTheRain = confirm("and getting caught in the rain");
