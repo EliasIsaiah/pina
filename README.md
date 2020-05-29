@@ -1,8 +1,4 @@
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-
-[![Generic badge](https://img.shields.io/badge/Maria-Live-RED.svg)](https://google.com/)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![Generic badge](https://img.shields.io/badge/Maria-Live-RED.svg)](https://google.com/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # this is my awesome pina repo
 
